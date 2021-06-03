@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there :)
 
-### opa
+### I'm a python dev
+### I'm currently learning Django (a python framework)
+### I'm 15 years Old
+### I'm brazilian (SP-BR) 
+### I speak portuguese and basic English
 <!--
 **MuriWolf/MuriWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
