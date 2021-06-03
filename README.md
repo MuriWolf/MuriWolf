@@ -1,4 +1,4 @@
-### Hi there :)
+### Hello there 😄
 
 - I'm a python dev
 - I'm currently learning Django (a python framework)
