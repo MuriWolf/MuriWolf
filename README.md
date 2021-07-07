@@ -1,7 +1,7 @@
 ### Hello there 😄
 
 - I'm a python dev
-- I'm currently learning Django (a python framework)
+- I'm currently learning Django
 - I'm 15 years Old
 - I'm brazilian (SP-BR) 
 - I speak portuguese and basic English
