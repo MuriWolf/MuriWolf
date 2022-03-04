@@ -2,7 +2,7 @@
 
 - I'm a Web Developer
 - I'm currently learning HTML and CSS
-- I'm 15 years Old
+- I'm 16 years Old
 - I'm brazilian (SP-BR) 
 - I speak portuguese and basic English
 <!--
