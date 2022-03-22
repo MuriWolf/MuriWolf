@@ -1,10 +1,6 @@
 ### Hello there 😄
 
-- I'm a Web Developer
-- I'm currently learning HTML and CSS
-- I'm 16 years Old
-- I'm brazilian (SP-BR) 
-- I speak portuguese and basic English
+
 <!--
 **MuriWolf/MuriWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
