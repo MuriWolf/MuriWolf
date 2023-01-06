@@ -1,13 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3295a8,100:3c4f99&height=210&section=header&text=Murillo%20Pinheiro%20de%20Oliveira&fontSize=30&fontColor=eeeeee&fontAlignY=30&animation=fadeIn&desc=Dev%20Frontend%20Web&descAlignY=50"/>
 
-<div >
+<div align="center">
   <a href="https://github.com/MuriWolf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriWolf&layout=compact&langs_count=9&theme=onedark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriWolf&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
+  
+  <a href="https://github.com/muriwolf"><img href="https://github.com/muriwolf" src="https://komarev.com/ghpvc/?username=muriwolf&color=blueviolet" alt="Profile views"/></a>
 
-****
-
+***
+  
+<div align="center">
+  
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JS](https://skills.thijs.gg/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -21,4 +25,12 @@
 [![Python](https://skills.thijs.gg/icons?i=python)](https://www.python.org)
 [![PHP](https://skills.thijs.gg/icons?i=php)](https://www.php.net)
 [![VScode](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com)
+
+</div>
+  
+<div align="center">
+    <a href="https://instagram.com/muriwolf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/murillo-pinheiro-de-oliveira-2b931724a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:murillop.o06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.reddit.com/user/MuriWolf" target="_blank"><img src="https://img.shields.io/badge/-reddit-%255701?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
