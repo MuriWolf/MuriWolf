@@ -37,3 +37,5 @@
   <a href = "mailto:murillop.o06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/MuriWolf" target="_blank"><img src="https://img.shields.io/badge/-telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2cd43d,60:5f2cd4,90:3d1b8c&height=105&section=footer&animation=fadeIn"/>
