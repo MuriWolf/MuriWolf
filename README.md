@@ -27,7 +27,7 @@
 [![Python](https://skills.thijs.gg/icons?i=python)](https://www.python.org)
 [![PHP](https://skills.thijs.gg/icons?i=php)](https://www.php.net)
 [![VScode](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com)
-</div>  
+</div>   
 
 ***
   
