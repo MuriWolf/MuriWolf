@@ -18,14 +18,18 @@
 [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 [![GIT](https://skills.thijs.gg/icons?i=git)](https://git-scm.com)
 [![JQuery](https://skills.thijs.gg/icons?i=jquery)](https://jquery.com)
+</div>
+
+<div align="center">
+ 
 [![vue](https://skills.thijs.gg/icons?i=vue)](https://vuejs.org)
 [![Tailwind](https://skills.thijs.gg/icons?i=tailwind)](https://tailwindcss.com/docs/installation)
 [![Python](https://skills.thijs.gg/icons?i=python)](https://www.python.org)
 [![PHP](https://skills.thijs.gg/icons?i=php)](https://www.php.net)
 [![VScode](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com)
-</div>
-  
-  ***
+</div>  
+
+ ***
   
 <div align="center">
     <a href="https://instagram.com/muriwolf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
