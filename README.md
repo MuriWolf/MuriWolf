@@ -29,7 +29,7 @@
 [![VScode](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com)
 </div>  
 
- ***
+***
   
 <div align="center">
     <a href="https://instagram.com/muriwolf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
