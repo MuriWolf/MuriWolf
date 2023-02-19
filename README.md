@@ -23,6 +23,8 @@
 <div align="center">
  
 [![vue](https://skills.thijs.gg/icons?i=vue)](https://vuejs.org)
+[![Flutter](https://skills.thijs.gg/icons?i=flutter)](https://flutter.dev)
+[![dart](https://skills.thijs.gg/icons?i=dart)](https://dart.dev)
 [![Tailwind](https://skills.thijs.gg/icons?i=tailwind)](https://tailwindcss.com/docs/installation)
 [![Python](https://skills.thijs.gg/icons?i=python)](https://www.python.org)
 [![PHP](https://skills.thijs.gg/icons?i=php)](https://www.php.net)
