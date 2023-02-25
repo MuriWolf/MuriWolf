@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5f2cd4,60:4c23a9&height=175&section=header&text=Murillo%20Pinheiro%20de%20Oliveira&fontSize=30&fontColor=eeeeee&fontAlignY=30&animation=fadeIn&desc=Dev%20Frontend%20Web&descAlignY=50"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5f2cd4,60:4c23a9&height=160&section=header&text=Murillo%20Pinheiro%20de%20Oliveira&fontSize=30&fontColor=eeeeee&fontAlignY=30&animation=fadeIn&desc=Dev%20Frontend%20Web&descAlignY=50"/>
 <div align="center">
   <a href="https://github.com/MuriWolf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriWolf&layout=compact&langs_count=10&theme=aura"/>
