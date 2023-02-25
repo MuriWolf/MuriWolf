@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2cd43d,60:5f2cd4,90:3d1b8c&height=175&section=header&text=Murillo%20Pinheiro%20de%20Oliveira&fontSize=30&fontColor=eeeeee&fontAlignY=30&animation=fadeIn&desc=Dev%20Frontend%20Web&descAlignY=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60:5f2cd4,90:3d1b8c&height=175&section=header&text=Murillo%20Pinheiro%20de%20Oliveira&fontSize=30&fontColor=eeeeee&fontAlignY=30&animation=fadeIn&desc=Dev%20Frontend%20Web&descAlignY=50"/>
 
 <div align="center">
   <a href="https://github.com/MuriWolf">
@@ -40,4 +40,4 @@
   <a href="https://t.me/MuriWolf" target="_blank"><img src="https://img.shields.io/badge/-telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2cd43d,60:5f2cd4,90:3d1b8c&height=105&section=footer&animation=fadeIn"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2cd43d,60:23a930&height=105&section=footer&animation=fadeIn"/>
