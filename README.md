@@ -39,7 +39,9 @@
   <a href="https://t.me/MuriWolf" target="_blank"><img src="https://img.shields.io/badge/-telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
 
-  <div>
+ <!-- 
+ <div>
     [![wakatime](https://wakatime.com/badge/user/ade40df1-56bd-4593-8ea7-c7b3b48c71bc.svg)](https://wakatime.com/@ade40df1-56bd-4593-8ea7-c7b3b48c71bc)
-  </div>
+  </div> 
+-->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2cd43d,60:23a930&height=105&section=footer&animation=fadeIn"/>
