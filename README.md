@@ -5,7 +5,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=43&duration=2500&pause=1000&color=F7F7F7&background=5F2CD400&vCenter=true&width=525&lines=Murillo+P.+de+Oliveira;Front-end+Dev;Svelte+%26+Tailwind+lover)](https://git.io/typing-svg)
   
-  ### GitHub Status ✅
+  ### GitHub Status 
   
   <a href="https://github.com/MuriWolf">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriWolf&layout=compact&langs_count=10&theme=aura"/>
@@ -14,7 +14,7 @@
   
 <div>
 
-  ### Technologies ⚙️
+  ### Technologies ⚙
   
 [![Svelte](https://skills.thijs.gg/icons?i=svelte)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -40,7 +40,7 @@
 
 <div >
   
-### Social Media 🫂
+### Social Media 
 
  
 </div>
@@ -57,7 +57,7 @@
   [![wakatime](https://wakatime.com/badge/user/ade40df1-56bd-4593-8ea7-c7b3b48c71bc.svg)](https://wakatime.com/@ade40df1-56bd-4593-8ea7-c7b3b48c71bc)
 </div>
 
-  ### Wisdom 🔥
+  ### Wisdom 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
