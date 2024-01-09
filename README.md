@@ -3,7 +3,7 @@
 
 <div >
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=43&duration=2500&pause=1000&color=F7F7F7&background=5F2CD400&vCenter=true&width=525&lines=Murillo+P.+de+Oliveira;Front-end+Dev;Svelte+%26+Tailwind+lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=43&duration=2500&pause=1000&color=F7F7F7&background=5F2CD400&vCenter=true&width=525&lines=Murillo+P.+de+Oliveira;Front-end+Dev)](https://git.io/typing-svg)
   
   ### GitHub Status 
   
