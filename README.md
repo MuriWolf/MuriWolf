@@ -57,8 +57,8 @@
   [![wakatime](https://wakatime.com/badge/user/ade40df1-56bd-4593-8ea7-c7b3b48c71bc.svg)](https://wakatime.com/@ade40df1-56bd-4593-8ea7-c7b3b48c71bc)
 </div>
 
-  ### Wisdom 
+ <!--   ### Wisdom -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<!--  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <!--  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2cd43d,60:23a930&height=105&section=footer&animation=fadeIn"/> -->
