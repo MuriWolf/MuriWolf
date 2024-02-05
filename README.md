@@ -14,7 +14,7 @@
   
 <div>
 
-  ### Technologies ⚙
+  ### Technologies
   
 [![Svelte](https://skills.thijs.gg/icons?i=svelte)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
