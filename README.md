@@ -24,7 +24,7 @@
 [![TS](https://skills.thijs.gg/icons?i=ts)](https://www.typescriptlang.org)
 [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 [![GIT](https://skills.thijs.gg/icons?i=git)](https://git-scm.com)
-[![JQuery](https://skills.thijs.gg/icons?i=jquery)]([https://jquery.com](https://pt.wikipedia.org/wiki/Linux))
+[![JQuery](https://skills.thijs.gg/icons?i=jquery)]()
 </div>
 
 <div >
