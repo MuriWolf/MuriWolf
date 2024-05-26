@@ -14,33 +14,9 @@
   
 <div>
 
-  ### Technologies
+  ### Technologies I know or use
   
-[![Svelte](https://skills.thijs.gg/icons?i=svelte)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![HTML5](https://skills.thijs.gg/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://skills.thijs.gg/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JS](https://skills.thijs.gg/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![SASS](https://skills.thijs.gg/icons?i=sass)](https://sass-lang.com)
-[![TS](https://skills.thijs.gg/icons?i=ts)](https://www.typescriptlang.org)
-[![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-[![GIT](https://skills.thijs.gg/icons?i=git)](https://git-scm.com)
-[![JQuery](https://skills.thijs.gg/icons?i=jquery)](https://jquery.com/)
-</div>
-
-<div >
- 
-[![vue](https://skills.thijs.gg/icons?i=vue)](https://vuejs.org)
-[![Flutter](https://skills.thijs.gg/icons?i=flutter)](https://flutter.dev)
-[![dart](https://skills.thijs.gg/icons?i=dart)](https://dart.dev)
-[![Tailwind](https://skills.thijs.gg/icons?i=tailwind)](https://tailwindcss.com/docs/installation)
-[![Python](https://skills.thijs.gg/icons?i=python)](https://www.python.org)
-[![PHP](https://skills.thijs.gg/icons?i=php)](https://www.php.net)
-[![VScode](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com)
-[![Docker](https://skills.thijs.gg/icons?i=docker)](https://docker.com)
-[![Linux](https://skills.thijs.gg/icons?i=linux)]([https://docker.com](https://pt.wikipedia.org/wiki/Linux))
-</div>   
-
-<div >
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,vue,vscode,linux,windows,figma,scss,bun,dart,docker,ts,vercel,netlify,postman,py&perline=6)](https://skillicons.dev)
   
 ### Social Media 
 
