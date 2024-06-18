@@ -8,8 +8,8 @@
   ### GitHub Status 
   
   <a href="https://github.com/MuriWolf">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriWolf&layout=compact&langs_count=10&theme=aura"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriWolf&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> -->
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriWolf&layout=compact&langs_count=10&theme=transparent"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriWolf&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> -->
 </div>
   
 <div>
