@@ -16,7 +16,7 @@
 
   ### Tools I know or use
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,vue,vscode,linux,windows,figma,scss,bun,dart,docker,ts,vercel,netlify,postman,py&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,vue,vscode,linux,cpp,c,windows,figma,scss,bun,docker,js,ts,py,vercel,netlify,postman&perline=6)](https://skillicons.dev)
   
 ### Social Media 
 
