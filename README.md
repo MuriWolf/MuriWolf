@@ -3,7 +3,7 @@
 
 <div >
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=43&duration=2500&pause=1000&color=F7F7F7&background=5F2CD400&vCenter=true&width=525&lines=Murillo+P.+de+Oliveira;Front-end+Developer;CS+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=43&duration=2500&pause=1000&color=F7F7F7&background=5F2CD400&vCenter=true&width=525&lines=Murillo+P.+de+Oliveira;Web+Developer;CS+Student)](https://git.io/typing-svg)
   
   ### GitHub Status 
   
@@ -16,7 +16,7 @@
 
   ### Tools I know or use
   
-[![My Skills](https://skillicons.dev/icons?i=svelte,vue,vscode,linux,cpp,c,windows,figma,scss,bun,docker,js,ts,py,vercel,netlify,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,vue,vscode,linux,cpp,c,windows,figma,scss,bun,docker,js,ts,py,php,vercel,netlify,postman&perline=6)](https://skillicons.dev)
   
 ### Social Media 
 
