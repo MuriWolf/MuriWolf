@@ -14,7 +14,7 @@
   
 <div>
 
-  ### Technologies I know or use
+  ### Tools I know or use
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,vue,vscode,linux,windows,figma,scss,bun,dart,docker,ts,vercel,netlify,postman,py&perline=6)](https://skillicons.dev)
   
