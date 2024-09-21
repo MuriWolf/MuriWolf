@@ -3,24 +3,20 @@
 
 <div >
   
-
-  
-  ### GitHub Status 
+  ## GitHub Status 
   
   <a href="https://github.com/MuriWolf">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriWolf&layout=compact&langs_count=10&theme=transparent"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriWolf&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> -->
+ <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriWolf&layout=compact&langs_count=10&theme=transparent"/ >
+
 </div>
   
 <div>
 
-  ### Tools I know or use
+  ## Tools I know or use
   
 [![My Skills](https://skillicons.dev/icons?i=svelte,vue,vscode,vim,linux,c,windows,figma,scss,bun,docker,js,ts,py,php,vercel,netlify,postman&perline=6)](https://skillicons.dev)
   
-### Social Media 
-
- 
+## Social Media 
 </div>
 
 <div>
@@ -33,6 +29,13 @@
   
   [![wakatime](https://wakatime.com/badge/user/ade40df1-56bd-4593-8ea7-c7b3b48c71bc.svg)](https://wakatime.com/@ade40df1-56bd-4593-8ea7-c7b3b48c71bc)
 </div>
+
+##
+
+ <div>
+     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
 
  <!--   ### Wisdom -->
 
