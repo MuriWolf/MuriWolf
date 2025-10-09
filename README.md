@@ -1,7 +1,7 @@
 ## Hello! Olá! Bonjour!
 <ul>
   <li>Web developer based on Brazil 🇧🇷</li>
-  <li>Enjoys both web backend and frontend</li>
+  <li>Enjoys both backend and frontend</li>
   <li>Computer Science student</li>
   <li>Portuguese fluent speaker, professional proficiency in english, leaning french 🇬🇧🇫🇷</li>
 </ul>
