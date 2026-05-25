@@ -4,6 +4,7 @@
   <li>Enjoys both backend and frontend</li>
   <li>Computer Science student</li>
   <li>Portuguese fluent speaker, professional proficiency in english, leaning french 🇬🇧🇫🇷</li>
+  <li>See my detailed stats on: <a href="https://github.com/Murillo-Pinheiro-Sisfrete">@Murillo-Pinheiro-Sisfrete </a></li>
 </ul>
   
 ## Programming Languages  
