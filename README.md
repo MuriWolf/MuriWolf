@@ -8,14 +8,14 @@
 </ul>
   
 ## Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=ts,java,py,php,c&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,java,py,php,c,cs,cpp,dart,lua,r&theme=light&perline=6)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,laravel,svelte,tailwind&theme=light&perline=5)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,laravel,svelte,tailwind,bootstrap,flutter&theme=light&perline=6)](https://skillicons.dev)  
 
 
 ## Et cetera
-[![My Skills](https://skillicons.dev/icons?i=scss,idea,neovim,linux,windows,postgres,mysql,figma,vercel,postman&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=scss,idea,neovim,vscode,visualstudio,rider,linux,arch,windows,postgres,mysql,figma,vercel,postman,obsidian,latex,notion,md,gulp&theme=light&perline=6)](https://skillicons.dev)
 
 ## Social Media 
 <div>
